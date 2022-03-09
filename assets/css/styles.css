@@ -645,10 +645,10 @@ table.table-style2 .trbg {
 }
 h1.main-heading {
     font-family: 'poppins-semibold';
-    font-size: 125px;
+    font-size: 130px;
     text-shadow: 15px 0px 47px rgb(0 0 0);
     color: #FFFFFF;
-    letter-spacing: -10px;
+    letter-spacing: -4px;
     line-height: 170px;
     margin-right: 72px;
 }
