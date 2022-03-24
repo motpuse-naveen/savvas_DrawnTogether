@@ -419,10 +419,13 @@ ul {
   }
   ul.dashed > li {
     text-indent: 33px;
+    text-align: left;
   }
   ul.dashed > li:before {
     content: "-";
     text-indent: -5px;
+    margin-left: -34px;
+
   }
 
 ul.small-bullet {
@@ -736,6 +739,9 @@ blockquote {
     color: #FFFFFF;
     margin-top: 2rem;
     line-height: 28px;
+}
+blockquote span.nonitalic{
+    font-family: 'poppins-light';
 }
 
 .moreinfoicon{
