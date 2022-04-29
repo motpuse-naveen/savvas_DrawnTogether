@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:#F0F0F0;}
+	.st3{fill:none;}
+	.st4{font-family:'Poppins-SemiBold';}
+	.st5{font-size:24px;}
+	.st6{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g id="BKGD">
+	<g>
+		<path class="st0" d="M15,611.75c-8.13,0-14.75-6.62-14.75-14.75V15C0.25,6.87,6.87,0.25,15,0.25h762
+			c8.13,0,14.75,6.62,14.75,14.75v582c0,8.13-6.62,14.75-14.75,14.75H15z"/>
+		<path d="M777,0.5c8,0,14.5,6.5,14.5,14.5v582c0,8-6.5,14.5-14.5,14.5H15c-8,0-14.5-6.5-14.5-14.5V15C0.5,7,7,0.5,15,0.5H777
+			 M777,0H15C6.72,0,0,6.72,0,15v582c0,8.28,6.72,15,15,15h762c8.28,0,15-6.72,15-15V15C792,6.72,785.28,0,777,0L777,0z"/>
+	</g>
+</g>
+<g id="GO_x5F_WW">
+	<g>
+		<line class="st1" x1="183.5" y1="165.5" x2="396.12" y2="305.21"/>
+	</g>
+	<g>
+		<line class="st1" x1="616.12" y1="165.5" x2="393.5" y2="305.21"/>
+	</g>
+	<g>
+		<line class="st1" x1="173.5" y1="441.21" x2="396.12" y2="301.5"/>
+	</g>
+	<g>
+		<line class="st1" x1="616.12" y1="441.21" x2="393.5" y2="301.5"/>
+	</g>
+	<g>
+		<ellipse class="st2" cx="396.11" cy="305.21" rx="104" ry="104"/>
+		<path d="M396.12,202.21c56.79,0,103,46.21,103,103s-46.21,103-103,103s-103-46.21-103-103S339.33,202.21,396.12,202.21
+			 M396.12,200.21c-57.99,0-105,47.01-105,105s47.01,105,105,105s105-47.01,105-105S454.11,200.21,396.12,200.21L396.12,200.21z"/>
+	</g>
+	<rect x="317.12" y="268.02" class="st3" width="157" height="81.98"/>
+	<text transform="matrix(1 0 0 1 338.9564 270.1732)" class="st4 st5">How can I</text>
+	<text transform="matrix(1 0 0 1 328.5813 301.1732)" class="st4 st5">connect with</text>
+	<text transform="matrix(1 0 0 1 344.1531 330.1732)" class="st4 st5">people in</text>
+	<text transform="matrix(1 0 0 1 349.1409 364.391)" class="st4 st5">my life?</text>
+	<path class="st6" d="M282,190H58c-7.18,0-13-5.82-13-13v-64c0-7.18,5.82-13,13-13h224c7.18,0,13,5.82,13,13v64
+		C295,184.18,289.18,190,282,190z"/>
+	<rect x="77.09" y="136.02" class="st3" width="185.91" height="27.98"/>
+	<text transform="matrix(1 0 0 1 167.3082 153.7819)" class="st4 st5">?</text>
+	<path class="st6" d="M732,190H508c-7.18,0-13-5.82-13-13v-64c0-7.18,5.82-13,13-13h224c7.18,0,13,5.82,13,13v64
+		C745,184.18,739.18,190,732,190z"/>
+	<rect x="548.09" y="134.02" class="st3" width="151.91" height="30.98"/>
+	<text transform="matrix(1 0 0 1 537.4772 151.7819)" class="st4 st5">play together</text>
+	<path class="st6" d="M282,510H58c-7.18,0-13-5.82-13-13v-64c0-7.18,5.82-13,13-13h224c7.18,0,13,5.82,13,13v64
+		C295,504.18,289.18,510,282,510z"/>
+	<rect x="98.09" y="455.02" class="st3" width="143.04" height="24.98"/>
+	<text transform="matrix(1 0 0 1 89.0577 472.7824)" class="st4 st5">read together</text>
+	<path class="st6" d="M732,510H508c-7.18,0-13-5.82-13-13v-64c0-7.18,5.82-13,13-13h224c7.18,0,13,5.82,13,13v64
+		C745,504.18,739.18,510,732,510z"/>
+	<rect x="529" y="456.02" class="st3" width="180.12" height="30.98"/>
+	<text transform="matrix(1 0 0 1 538.7257 473.7824)" class="st4 st5">cook together</text>
+</g>
+<g id="TEXT">
+</g>
+</svg>
