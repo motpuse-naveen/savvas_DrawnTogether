@@ -695,7 +695,7 @@ table.table-style2 .trbg {
 
 .rikshaw-girl-text {
     position: relative;
-    padding-top: 119px;
+    padding-top: 68px;
     padding-left: 90px;
     z-index: 12;
 
@@ -745,8 +745,8 @@ h1.main-heading {
 .moreInfo-wrapper {
     float: right;
     width: 428px;
-    padding-left: 141px;
-    margin-top: -86px;
+    /*padding-left: 141px;*/
+    margin-top: -15px;
 }
 .moreInfo {
     position: absolute;
@@ -767,6 +767,7 @@ h1.main-heading {
 
 .moreInfo-additionaltxt {
     padding: 0 28px;
+    padding-top: 60px;
 }
 
 .moreInfo-additionaltxt .title {
@@ -807,7 +808,7 @@ blockquote span.nonitalic{
 
 .orbitdiv {
     position: absolute;
-    top: 150px;
+    top: 230px;
     right: -80px;
     width: 234px;
     height: 234px;
@@ -816,7 +817,7 @@ blockquote span.nonitalic{
 
 .orbitdiv-button{
     position: absolute;
-    top: -246px;
+    top: -115px;
     right: -80px;
     width: 234px;
     height: 234px;
